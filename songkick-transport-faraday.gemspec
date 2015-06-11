@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                  = 'songkick-transport-faraday'
-  s.version               = '0.0.1'
+  s.version               = '0.0.1pre1'
   s.license               = 'MIT'
   s.summary               = 'Faraday adapter for Songkick::Transport'
   s.description           = 'Faraday adapter for Songkick::Transport'
